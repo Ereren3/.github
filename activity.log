@@ -927,3 +927,6 @@
 2025-05-28 10:32:00 | INFO | repo=.github | action=commit
 2025-09-02 20:27:00 | WARN | repo=.github | action=commit
 2025-03-26 19:29:00 | DEBUG | repo=.github | action=commit
+2025-05-14 18:12:00 | DEBUG | repo=.github | action=pull
+2025-10-27 12:19:00 | INFO | repo=.github | action=pull
+2025-04-27 16:17:00 | WARN | repo=.github | action=commit
